@@ -1,3 +1,3 @@
 #!/usr/bin/env ruby
-# This script matches the word "School" in the given input argument
-puts ARGV[0].scan(/School/).join
+
+puts ARGV[0].scan(/hbt{2,5}n/)
